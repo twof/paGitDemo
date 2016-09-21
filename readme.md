@@ -1,7 +1,7 @@
 #Questions
 
 1. What is your favorite color?
-green
+cyan
 
 2. Where are you from?
 SF
