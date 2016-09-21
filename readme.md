@@ -4,4 +4,4 @@
 green
 
 2. Where are you from?
-San Jose
+SF
